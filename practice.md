@@ -1,2 +1,2 @@
 "What am I?"
-"You are my creation"
+"You are mine"
