@@ -1,2 +1,1 @@
-"What am I?"
-"You are mine"
+"Just some random text"
